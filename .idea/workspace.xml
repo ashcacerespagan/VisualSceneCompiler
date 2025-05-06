@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5bacafe0-f22c-4fd5-b5bf-2f7426ce5a39" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DrawingPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HollowPolygon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Image.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IsoscelesTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lexer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LexicalError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Parallelogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Parser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Polygon_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RegularPolygon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RightTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Scene.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SolidPolygon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SyntaxError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Text.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Token.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/scene.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2ln5jtkxnnIkxc8mof9EKpoNdpl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/ashleycacerespagan/IdeaProjects/VisualSceneCompiler/src/main/java",
+    "onboarding.tips.debug.path": "/Users/ashleycacerespagan/IdeaProjects/VisualSceneCompiler/src/main/java/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5bacafe0-f22c-4fd5-b5bf-2f7426ce5a39" name="Changes" comment="" />
+      <created>1725803138903</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725803138903</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
