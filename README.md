@@ -1,2 +1,2 @@
 # VisualSceneCompiler
-A Java project for UMGC coursework.
+JavaFX compiler that interprets a scene layout language and renders the visual result.
